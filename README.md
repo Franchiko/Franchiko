@@ -9,8 +9,8 @@
 
 My Meta`s Tags !!
 
-<meta name="contrsuction of component" content="Nft component" author="Franchu Javier Developer to WorldShopApss">
-<meta name="nft" content="Nft component">
+<meta name="" content="" author="Franchu Javier Developer to WorldShopApss">
+<meta name="" content="">
 
 
 <!---
