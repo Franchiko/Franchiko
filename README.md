@@ -9,8 +9,25 @@
 
 My Meta`s Tags !!
 
-<meta name="" content="" author="Franchu Javier Developer to WorldShopApss">
-<meta name="" content="">
+<meta name="author" content="Franchu Javier Developer to WorldShopApss" />
+<meta name="description" content="" />
+
+<meta name="robots" content="index,follow" />
+<meta name="revised" content="Colocar la fecha" />
+<meta name="copyright" content="Copyright 2022">
+
+<meta name="HandheldFriendly" content="true"/>
+
+Share en RRSS
+
+<meta property="og:title" content=" " />
+<meta property="og:type" content=" " />
+<meta property="og:image" content=" " />
+<meta property="og:url" content=" " />
+
+<meta property="og:description" content=" " />
+<meta property="og:locale" content=" " />
+<meta property="og:site_name" content=" " />
 
 
 <!---
@@ -20,4 +37,3 @@ You can click the Preview link to take a look at your changes.
 
 ![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white)
 
-https://reactadvanced.com/badge/Franchiko
