@@ -30,7 +30,7 @@ Share en RRSS
 
 ```
 
-Learn with Microsoft:[Link to Microsoft Training](/training)
+Badges Microsoft:[Link to Microsoft Training](/training)
 
 <!---
 Franchiko/Franchiko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
