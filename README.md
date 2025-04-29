@@ -10,7 +10,7 @@
 
 
 My Meta`s Tags !!
-
+\
 <meta name="author" content="Franchu Javier Developer to WorldShopApss" />
 <meta name="description" content="" />
 
@@ -30,7 +30,7 @@ Share en RRSS
 <meta property="og:description" content=" " />
 <meta property="og:locale" content=" " />
 <meta property="og:site_name" content=" " />
-
+\
 
 <!---
 Franchiko/Franchiko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
