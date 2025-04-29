@@ -1,4 +1,4 @@
-👋 ##**Hi, I’m @FranchuDev**##
+👋 **#Hi, I’m @FranchuDev**
 - 👀 I’m interested in   aprender  sobre desarrollo web e implementarlo en mi area de estudio
 - 🌱 I’m currently learning  Desarrollo Web Front End
 - 💞️ I’m looking to collaborate on  creacion  de Apps
