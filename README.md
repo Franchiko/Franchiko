@@ -10,13 +10,13 @@
 
 
 My Meta`s Tags !!
-```markdown
+```
 <meta name="author" content="Franchu Javier Developer to WorldShopApss" />
 <meta name="description" content="" />
 <meta name="robots" content="index,follow" />
 <meta name="revised" content="Colocar la fecha" />
 <meta name="copyright" content="Copyright 2022">
-<meta name="HandheldFriendly" content="true"/>```
+<meta name="HandheldFriendly" content="true"/>
 
 Share en RRSS
 
@@ -28,7 +28,7 @@ Share en RRSS
 <meta property="og:locale" content=" " />
 <meta property="og:site_name" content=" " />
 
-
+```
 [Link to Microsoft Training](/training)
 
 <!---
