@@ -36,5 +36,22 @@ Badges Microsoft:[Link to Microsoft Training](/training)
 Franchiko/Franchiko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white)
+![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white)+
+
+
+COde to commit
+…or create a new repository on the command line
+echo "# Form-Blue" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Franchiko/*****(Name Repository*****).git
+git push -u origin main
+
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/Franchiko/Form-Blue.git
+git branch -M main
+git push -u origin main
 
