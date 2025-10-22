@@ -55,8 +55,11 @@ You can click the Preview link to take a look at your changes.
 - git branch -M main
 - git push -u origin main
 
-##to resdolve:##
+##1. to resdolve:##
 - git fetch
 - git rebase feature/my_feature_branch
 - git push origin feature/my_feature_branch
+
+##2. to resdolve:##
+- git push --force origin main
 
